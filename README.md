@@ -9,3 +9,6 @@ method of YNAB](https://www.youneedabudget.com/the-four-rules/) without having a
  - Use cloud storages like Dropbox or Google Drive for syncing mechanism
  - Have multiple devices sync to a shared budget
  
+## PS
+ - This project is for learning best practices like continuous integration
+   with unit tests. 
