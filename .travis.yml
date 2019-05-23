@@ -7,4 +7,4 @@ language: swift
 #xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone X
 #
 script:
-- fastlane scan
+- fastlane scan --workspace "Budget.xcworkspace" --scheme "Budget iOS" --device "iPhone X" --clean
