@@ -1,4 +1,5 @@
-# Budget
+# Budget 
+[![Build Status](https://travis-ci.com/yet-another-developer/Budget.svg?branch=master)](https://travis-ci.com/yet-another-developer/Budget)
 
 ## Why?
 [YNAB (You Need A Budget)](https://www.youneedabudget.com) is a great budgeting tool but it's not free.
