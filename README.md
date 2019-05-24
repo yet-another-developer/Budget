@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yet-another-developer/Budget/master/assets/budget_logo_transparent_256px.png" alt="Budget Logo" width="36" height="36"> Budget: Love your life
+<img src="https://raw.githubusercontent.com/yet-another-developer/Budget/master/assets/budget_logo_transparent_256px_no_padding.png" alt="Budget Logo" width="36" height="36"> Budget: Love your life
 ======================================
 [![Build Status](https://travis-ci.com/yet-another-developer/Budget.svg?branch=master)](https://travis-ci.com/yet-another-developer/Budget) 
 ![platform](https://img.shields.io/badge/platform-iOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20macOS-333333.svg)
