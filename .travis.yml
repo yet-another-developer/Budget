@@ -2,6 +2,11 @@ osx_image: xcode10.2
 language: swift
 
 
+# https://stackoverflow.com/a/31882307
+branches:
+  only: 
+    - master 
+
 #xcode_workspace: Budget.xcworkspace
 #xcode_scheme: Budget iOS
 #xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone X
