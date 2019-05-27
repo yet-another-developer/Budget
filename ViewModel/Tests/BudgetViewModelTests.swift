@@ -6,7 +6,9 @@
 //
 
 import XCTest
+@testable import Model
 @testable import ViewModel
+
 
 class BudgetViewModelTests: XCTestCase {
 
@@ -19,7 +21,16 @@ class BudgetViewModelTests: XCTestCase {
     }
 
     func testViewModelExists() {
-        let vm = BudgetViewModel()
+        let model = Budget(amount: 11)
+        let vm = BudgetViewModel(budget: model)
+        
         XCTAssertNotNil(vm)
+    }
+    
+    func test_budgetvm_displaysCorrect() {
+        let model = Budget(amount: 10)
+        let vm = BudgetViewModel(budget: model)
+        
+        XCTAssertEqual(vm.displayAmount, "10.0")
     }
 }

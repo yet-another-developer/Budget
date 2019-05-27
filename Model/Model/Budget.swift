@@ -7,8 +7,6 @@
 
 import Foundation
 
-
-class Budget {
-    
-    
+public struct Budget {
+    public let amount: Double
 }

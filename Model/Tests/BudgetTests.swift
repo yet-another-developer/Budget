@@ -31,7 +31,7 @@ class BudgetTests: XCTestCase {
     }
     
     func testBudgetModelExists() {
-        let budget = Budget()
+        let budget = Budget(amount: 10)
         XCTAssertNotNil(budget)
     }
 
