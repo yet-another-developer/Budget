@@ -38,6 +38,26 @@
                ReferencedContainer = "container:Budget.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8B80740B2296957F00AF9908"
+               BuildableName = "ViewModel Tests.xctest"
+               BlueprintName = "ViewModel iOSTests"
+               ReferencedContainer = "container:../ViewModel/ViewModel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8B8073A2229694A600AF9908"
+               BuildableName = "Model Tests.xctest"
+               BlueprintName = "Model iOSTests"
+               ReferencedContainer = "container:../Model/Model.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
